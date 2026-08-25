@@ -1,0 +1,14 @@
+name: FarLands
+version: 1.0.1
+main: id.kuru.farlands.FarLandsPlugin
+api-version: '1.21'
+folia-supported: true
+author: kuru
+description: Menghidupkan kembali Far Lands dengan jarak mulai/maks yang bisa diatur.
+commands:
+  farlands:
+    description: Kontrol zona Far Lands
+    permission: farlands.admin
+permissions:
+  farlands.admin:
+    default: op

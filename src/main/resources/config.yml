@@ -1,0 +1,12 @@
+# Jarak (blok dari koordinat 0) saat Far Lands mulai terbentuk
+start: 12550821
+# Batas maksimal zona Far Lands (maks dunia = 29999984, world border)
+end: 29999984
+# Lebar transisi terrain normal -> kacau (blok)
+ramp: 2000
+# Ketebalan "Great Wall" di garis start
+wall-thickness: 48
+# Jurang maut di dalam zona
+holes: true
+# Pulau batu melayang
+blobs: true
